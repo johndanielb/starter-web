@@ -13,3 +13,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ####Bomb is on the way
+
+##Copyright 2016 Edition
