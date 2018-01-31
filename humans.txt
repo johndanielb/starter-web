@@ -6,8 +6,8 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
-    <name>
+      
+    All my people
 
 # TECHNOLOGY COLOPHON
 
