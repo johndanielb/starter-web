@@ -2,7 +2,7 @@
 
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. rebase example
+This repository is for showing how Git and GitHub work. rebase example, initial detail understanding 
 
 
 ##Good to go
