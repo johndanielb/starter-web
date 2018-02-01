@@ -4,6 +4,7 @@
 
 This repository is for showing how Git and GitHub work. rebase example, initial detail understanding 
 
+###this is the best opportunity 
 
 ##Good to go
 
@@ -13,6 +14,8 @@ This repository is for showing how Git and GitHub work. rebase example, initial 
 
 Sample website with plenty of files for demos
 
+
+Good going on stashing
 ####Bomb is on the way
 
 ##Copyright 2016 Edition
