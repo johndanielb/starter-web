@@ -15,7 +15,7 @@ This repository is for showing how Git and GitHub work. rebase example, initial 
 Sample website with plenty of files for demos
 
 
-Good going on stashing
+Still to add this on stashing.
 ####Bomb is on the way
 
 ##Copyright 2016 Edition

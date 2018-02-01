@@ -3,6 +3,8 @@
 
 # TEAM
 
+######stashing in the progresss, lets do it buddy
+
     <name> -- <role> -- <twitter>
 
 # THANKS
